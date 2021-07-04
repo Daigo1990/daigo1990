@@ -11,8 +11,10 @@
     -Javascript, ReactJs, VueJS, AngularJS</br>&nbsp;&nbsp;&nbsp;&nbsp;
     -PHP, Laravel, Symfony</br>&nbsp;&nbsp;&nbsp;&nbsp;
     -NodeJS, Epxress</br>&nbsp;&nbsp;&nbsp;&nbsp;
+    -SQL, MySQL, MongoDB, Firebase</br>&nbsp;&nbsp;&nbsp;&nbsp;
     -Rest API, GraphQL</br>&nbsp;&nbsp;&nbsp;&nbsp;
     -Drupal</br>&nbsp;&nbsp;&nbsp;&nbsp;
+    -GSAP, Gatsby&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
