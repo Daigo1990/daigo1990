@@ -3,14 +3,23 @@
 Throughout my career, I have contributed to positive business results through effective organization, prioritization and follow-through of key organizational projects. In my current role as a Software Development Intern, I solve problems with a calculated and methodical approach. While I am independently motivated, I appreciate collective efforts and collaborate productively within group settings. Moreover, I am competent in methods for identifying bugs and increasing code efficiency.
 
 🥇 Experience/Stack:
+    -HTML5 , CSS3, Sass, Tailwinds
+    -Figma, -Photoshop/Paint.NET, ADobe XD
+    -Javascript, ReactJs, VueJS, AngularJS
+    -PHP, Laravel, Symfony
+    -NodeJS, Epxress,
+    -Rest API, GraphQL
+    -Drupal
 
-Here are some ideas to get you started:
+☎️ You can contact me a multitude of ways:
+   -LinkedIn: https://www.linkedin.com/in/jong-ri-293017210/
+   -Skype: live:.cid.f06bd0f2fa54081a
+   -email: kitty.web.guru@protonmail.com
+   
+❔ Interests of mine include:
+  -Build web sites and app.
+  -Collaboration with team and comapny.
+  -Contribute to positive business results.
+  -Giving help for other human. 
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ... -->
+
