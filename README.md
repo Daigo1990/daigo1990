@@ -16,13 +16,13 @@
     </div>
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-☎️ You can contact me a multitude of ways:</br></br>
+☎️ You can contact me a multitude of ways:</br></br>&nbsp;&nbsp;&nbsp;&nbsp;
    -LinkedIn: https://www.linkedin.com/in/jong-ri-293017210/</br>&nbsp;&nbsp;&nbsp;&nbsp;
    -Skype: live:.cid.f06bd0f2fa54081a</br>&nbsp;&nbsp;&nbsp;&nbsp;
    -email: kitty.web.guru@protonmail.com</br>&nbsp;&nbsp;&nbsp;&nbsp;
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
    
-❔ Interests of mine include:</br></br>
+❔ Interests of mine include:</br></br>&nbsp;&nbsp;&nbsp;&nbsp;
   -Build web sites and app.</br>&nbsp;&nbsp;&nbsp;&nbsp;
   -Collaboration with team and comapny.</br>&nbsp;&nbsp;&nbsp;&nbsp;
   -Contribute to positive business results.</br>&nbsp;&nbsp;&nbsp;&nbsp;
