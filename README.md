@@ -4,8 +4,8 @@ Throughout my career, I have contributed to positive business results through ef
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🥇 Experience/Stack:</br></br></br>
-<div>&nbsp
+🥇 Experience/Stack:</br>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;
     -HTML5 , CSS3, Sass, Tailwinds,</br>
     -Figma, -Photoshop/Paint.NET, ADobe XD</br>
     -Javascript, ReactJs, VueJS, AngularJS</br>
