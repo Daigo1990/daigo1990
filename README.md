@@ -2,6 +2,8 @@
 
 Throughout my career, I have contributed to positive business results through effective organization, prioritization and follow-through of key organizational projects. In my current role as a Software Development Intern, I solve problems with a calculated and methodical approach. While I am independently motivated, I appreciate collective efforts and collaborate productively within group settings. Moreover, I am competent in methods for identifying bugs and increasing code efficiency.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🥇 Experience/Stack:
     -HTML5 , CSS3, Sass, Tailwinds
     -Figma, -Photoshop/Paint.NET, ADobe XD
@@ -10,11 +12,13 @@ Throughout my career, I have contributed to positive business results through ef
     -NodeJS, Epxress,
     -Rest API, GraphQL
     -Drupal
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ☎️ You can contact me a multitude of ways:
    -LinkedIn: https://www.linkedin.com/in/jong-ri-293017210/
    -Skype: live:.cid.f06bd0f2fa54081a
    -email: kitty.web.guru@protonmail.com
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
    
 ❔ Interests of mine include:
   -Build web sites and app.
