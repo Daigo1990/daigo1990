@@ -6,9 +6,9 @@ Throughout my career, I have contributed to positive business results through ef
 
 🥇 Experience/Stack:</br>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;
-    -HTML5 , CSS3, Sass, Tailwinds,</br>
-    -Figma, -Photoshop/Paint.NET, ADobe XD</br>
-    -Javascript, ReactJs, VueJS, AngularJS</br>
+    -HTML5 , CSS3, Sass, Tailwinds,</br>&nbsp;&nbsp;&nbsp;&nbsp;
+    -Figma, -Photoshop/Paint.NET, ADobe XD</br>&nbsp;&nbsp;&nbsp;&nbsp;
+    -Javascript, ReactJs, VueJS, AngularJS</br>&nbsp;&nbsp;&nbsp;&nbsp;
     -PHP, Laravel, Symfony</br>
     -NodeJS, Epxress</br>
     -Rest API, GraphQL</br>
