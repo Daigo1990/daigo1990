@@ -1,4 +1,4 @@
-💬My name is Jong Ri(Daigo Hisamoto), I am a driven Full Stack Developer with a history of Idea Realization and Design looking to break into the freelancing world.</br>
+💬I am a driven Full Stack Developer with a history of Idea Realization and Design looking to break into the freelancing world.</br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>Throughout my career, I have contributed to positive business results through effective organization, prioritization and follow-through of key organizational projects. In my current role as a Software Development Intern, I solve problems with a calculated and methodical approach. While I am independently motivated, I appreciate collective efforts and collaborate productively within group settings. Moreover, I am competent in methods for identifying bugs and increasing code efficiency.</div>
 
